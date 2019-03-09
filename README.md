@@ -38,11 +38,10 @@
   <br><br><br>
   
 * Instructions:
-<br>
 SPACEBAR            -> Show Central City;
 <br>
 LEFT & RIGHT CLICK  -> Select origin and destination cities;
-<br>
+<br><br>
   
 * Imagens / Images
 <br><br>
