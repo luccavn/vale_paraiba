@@ -3,11 +3,6 @@ Instructions:\
 SPACEBAR            -> Show Central City;\
 LEFT & RIGHT CLICK  -> Select origin and destination cities;\
 <br>
-Requirements:\
-<br>
-Python Interpreter;\
-Pygame Package;\
-<br>
 * Introdução / Introduction
 <br><br>
     O projeto apresenta, através de uma Biblioteca Gráfica, um sistema interativo onde é possível observar as rotas que podem ser realizadas (por estrada) entre dois municípios que se limitam à região do Vale do Paraíba. O número de municípios que fazem parte dessa região é igual a 39.
@@ -48,8 +43,8 @@ Pygame Package;\
   <br><br><br>
 * Imagens / Images
 <br><br>
-![Amostra 01](Amostra01.png)
-Amostra01.png
+![Amostra 01](amostras/amostra01.png)
+Amostra 1
 <br><br>
-![Amostra 02](Amostra02.png)
-Amostra02.png
+![Amostra 02](amostras/amostra02.png)
+Amostra 2
