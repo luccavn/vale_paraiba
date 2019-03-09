@@ -38,9 +38,8 @@
   <br><br><br>
   
 * Instructions:<br>
-SPACEBAR            -> Show Central City;
-LEFT & RIGHT CLICK  -> Select origin and destination cities;
-<br><br>
+SPACEBAR            -> Show Central City;<br>
+LEFT & RIGHT CLICK  -> Select origin and destination cities;<br><br>
   
 * Imagens / Images
 <br><br>
