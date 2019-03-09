@@ -1,8 +1,3 @@
-Instructions:\
-<br>
-SPACEBAR            -> Show Central City;\
-LEFT & RIGHT CLICK  -> Select origin and destination cities;\
-<br>
 * Introdução / Introduction
 <br><br>
     O projeto apresenta, através de uma Biblioteca Gráfica, um sistema interativo onde é possível observar as rotas que podem ser realizadas (por estrada) entre dois municípios que se limitam à região do Vale do Paraíba. O número de municípios que fazem parte dessa região é igual a 39.
@@ -41,6 +36,13 @@ LEFT & RIGHT CLICK  -> Select origin and destination cities;\
   <br>
     We use two loops to scan the list of cities, indexes i and j are used to represent the indices of the source city and the destination city, respectively. All distances are summed in the variable s. The smallest sum is stored in the smallest_sum variable and the source town corresponding to that sum is stored in the global variable central_city. The complexity of this algorithm is equal to O (N²), where N represents the number of cities.\
   <br><br><br>
+  
+* Instructions:\
+<br>
+SPACEBAR            -> Show Central City;\
+LEFT & RIGHT CLICK  -> Select origin and destination cities;\
+<br>
+  
 * Imagens / Images
 <br><br>
 ![Amostra 01](amostras/amostra01.png)
