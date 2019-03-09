@@ -37,9 +37,8 @@
     We use two loops to scan the list of cities, indexes i and j are used to represent the indices of the source city and the destination city, respectively. All distances are summed in the variable s. The smallest sum is stored in the smallest_sum variable and the source town corresponding to that sum is stored in the global variable central_city. The complexity of this algorithm is equal to O (N²), where N represents the number of cities.\
   <br><br><br>
   
-* Instructions:
+* Instructions:<br>
 SPACEBAR            -> Show Central City;
-<br>
 LEFT & RIGHT CLICK  -> Select origin and destination cities;
 <br><br>
   
